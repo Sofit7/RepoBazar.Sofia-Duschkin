@@ -6,6 +6,7 @@
 }
 body{
     background-color: #d8d8d8f7;
+    background-image: linear-gradient(#d8d8d8f7, violet);
     font-family: 'Poppins', sans-serif;
 }
 /*Header Styles*/
